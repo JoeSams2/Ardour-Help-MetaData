@@ -14,6 +14,6 @@ The more metadata we get, the more searchable preferences will become, and the e
 
 
 CSV's of Session properties and Preferences Metadata
-Standard text csv - fields delimiter comma, text delimiter quote.
-Open in spreadsheet, fill in Visible and metadata fields, save back in csv.
+Standard text csv - fields delimiter comma, text delimiter quote and check "quote all text strings" when saving as csv.
+Open in spreadsheet, standard delimiters; comma and text quote, check "Format quoted field as text". Fill in Visible and metadata fields, save back in csv.
 Make github Pull Request and I'll merge until project is complete.
